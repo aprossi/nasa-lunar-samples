@@ -4,7 +4,7 @@
  
  NOTE: This only includes the Apollo samples (while the full dataset contains some samples from the Russian "Luna" missions). The data was collected from NASA's servers on May 1, 2023. 
 
-This data was collected for the story ["Here’s All the Rocks We Hauled Back From the Moon"](https://www.beautifulpublicdata.com/all-the-moon-rocks//)
+This data was collected for the story ["Here’s All the Rocks We Hauled Back From the Moon"](https://www.beautifulpublicdata.com/nasa-lunar-sample-collection/)
 
 The data contains 2,471 rows and 15 columns.
 
